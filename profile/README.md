@@ -15,5 +15,5 @@ Python (sqlalchemy, fastapi, sqlmodel), Typescript (NextJs), Go, PostgreSQL, Doc
 - [Сервис услуг](https://github.com/mzhn-fsp-dnr/services)
 - [Сервис работы с очередью](https://github.com/mzhn-fsp-dnr/queue)
 - [Сервис работы с отделениями](https://github.com/mzhn-fsp-dnr/offices)
-- [Сайт для сотрудников и администраторов](https://github.com/mzhn-fsp-dnr/frontend-admin-2)
+- [Сайт для сотрудников и администраторов](https://github.com/mzhn-fsp-dnr/frontend-admin)
 - [Сайт системы для записи, терминала управления очередью](https://github.com/mzhn-fsp-dnr/frontend-client)
