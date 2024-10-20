@@ -1,7 +1,14 @@
 # Разработка цифрового решения для администрирования очереди потребителей
 
 ## Стек
-Python (sqlalchemy, fastapi, sqlmodel), Typescript (NextJs), Go, PostgreSQL, Docker.
+`Python (sqlalchemy, fastapi, sqlmodel)`, `Typescript (NextJs)`, `Go`, `PostgreSQL`, `Docker`.
+
+## Описание доступных демонстраций
+
+- Демонстрация работы терминала обслуживания клиентов - https://client.mzhn.fun/tos
+- Демонстрация работы экрана для отображения текущей очереди - https://client.mzhn.fun/screen
+- Telegram-bot для удалённой записи (необходимо отсканировать QR-код в терминале) - [@post_donbass_fsp_bot](https://t.me/post_donbass_fsp_bot)
+- Демонстрация работы единого рабочего места сотрудника и администратора - https://admin.mzhn.fun/
 
 ## Архитектура проекта:
 
